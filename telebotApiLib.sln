@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "telebotApiLib", "telebotApiLib.csproj", "{6B8AB4F8-77FF-485C-8A3D-AA3CFF625D1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTelebotApiLibTest", "..\ConsoleTelebotApiLibTest\ConsoleTelebotApiLibTest.csproj", "{398D20C4-5475-4D21-A5DB-5F7F41F2D391}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6B8AB4F8-77FF-485C-8A3D-AA3CFF625D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B8AB4F8-77FF-485C-8A3D-AA3CFF625D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B8AB4F8-77FF-485C-8A3D-AA3CFF625D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{398D20C4-5475-4D21-A5DB-5F7F41F2D391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398D20C4-5475-4D21-A5DB-5F7F41F2D391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398D20C4-5475-4D21-A5DB-5F7F41F2D391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398D20C4-5475-4D21-A5DB-5F7F41F2D391}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
